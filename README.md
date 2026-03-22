@@ -33,7 +33,7 @@ The Qin Han dynasty introduced a unified dress code of robe-based structures, be
 * Fabric sashes for women
 * Gender-neutral silhouettes
 
-<img src="han.png" alt="drawing" width="200"/>
+<img src="references/qin han.jpg" alt="drawing" height="250"/><img src="references/han.png" alt="drawing" height="250"/><img src="references/han.webp" alt="drawing" height="250"/>
 
 ### Wei Jin Dynasty (220–265) (266–420) 
 The Wei Jin era is defined by philisophical freedom, shifting to a more elegant and simplistic fashion characterized by:
@@ -41,7 +41,7 @@ The Wei Jin era is defined by philisophical freedom, shifting to a more elegant 
 * Minimal embroidery, emphasis on color and drape
 * Light, flowing skirts
 
-<img src="weijin.png" alt="drawing" width="200"/>
+<img src="references/wei jin.jpg" alt="drawing" height="250"/><img src="references/weijin2.png" alt="drawing" height="250"/><img src="references/weijin.png" alt="drawing" height="250"/>
 
 ### Tang Dynasty (618-906)
 The Tang Dynasty emphasized prosperity, and openness. Fashion was expressive and bold, characterized by:
@@ -50,6 +50,9 @@ The Tang Dynasty emphasized prosperity, and openness. Fashion was expressive and
 * Accessory of a shawl (披帛) or cape
 * Luxurious and bold fabrics, floral or geometric prints
 
+<img src="references/tang.jpg" alt="drawing" height="250"/><img src="references/tang2.jpg" alt="drawing" height="250"/><img src="references/tang3.jpg" alt="drawing" height="250"/>
+
+
 ### Song Dynasty (960-1279)
 The Song Dynasty sees a big shift to simplicity and practicality, characterized by:
 * Beizi: straight-cut overcoat with side slits
@@ -57,7 +60,7 @@ The Song Dynasty sees a big shift to simplicity and practicality, characterized 
 * Gender-neutral clothing
 * Grace and elegance
 
-<img src="song.png" alt="drawing" width="200"/>
+<img src="references/song.png" alt="drawing" height="250"/>
 
 ### Ming Dynasty (1368-1644)
 The Ming Dynasty saw a shift back to traditional styles, characterized by:
@@ -66,7 +69,7 @@ The Ming Dynasty saw a shift back to traditional styles, characterized by:
 * Floral or animal embroidery
 * Rich radiant colors and heavy brocade
 
-<img src="ming.png" alt="drawing" width="200"/>
+<img src="references/ming.png" alt="drawing" height="250"/>
 
 ### Qing Dynasty (1644–1911)
 The Qing Dynasty, founded by the Northeast saw a change to the traditional cut, defined by:
